@@ -1,2 +1,5 @@
 # Sudoku
- Simple sudoku-solver
+Simple sudoku-solver with a GUI. 
+
+## Procedure
+
