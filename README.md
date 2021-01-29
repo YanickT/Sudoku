@@ -1,0 +1,2 @@
+# Sudoku
+ Simple sudoku-solver
