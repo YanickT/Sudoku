@@ -14,7 +14,7 @@ deepth in the tensor. Therefore, represents a `1` in the 4th layer of the tensor
 
 This holds two advantages:
 - At first, can each position checked using only binary operators between different places (especially `OR`).
-- Also can we check each number indented in its layers. Therefore, the constraints for each position can be seen very easy.
+- Also can we check each number independent in its layers. Therefore, the constraints for each position can be formulated very easy.
   More precisely are the most constraints given by basic slices of the tensor and a single operation.
 
 ## Algorithm
