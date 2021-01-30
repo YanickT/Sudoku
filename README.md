@@ -10,7 +10,7 @@ into a 3D tensor holding only {-1, 0, 1}.
 - `0` represents a closed place
 
 The field is transformed in such a way, that the number shown in the sudoku-field corresponds to the
-deeps in the tensor. Therefore, represents a `1` in the 4th layer of the tensor a `5` (start counting at 0).
+deepth in the tensor. Therefore, represents a `1` in the 4th layer of the tensor a `5` (start counting at 0).
 
 This holds two advantages:
 - At first, can each position checked using only binary operators between different places (especially `OR`).
